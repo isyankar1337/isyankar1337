@@ -30,6 +30,7 @@
 ![most i use languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isyankar1337&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
+[Instagram](https://instagram.com/isyankarreal)
 
 ### 🐍 my contribution graphic
 
