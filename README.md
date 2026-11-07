@@ -25,9 +25,9 @@
 
 ### 📊 GitHub statics
 
-![GitHub istatistikleri](https://github-readme-stats.vercel.app/api?username=isyankar1337&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub statics](https://github-readme-stats.vercel.app/api?username=isyankar1337&show_icons=true&theme=tokyonight&hide_border=true)
 
-![En çok kullandığım diller](https://github-readme-stats.vercel.app/api/top-langs/?username=isyankar1337&layout=compact&theme=tokyonight&hide_border=true)
+![most i use languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isyankar1337&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
