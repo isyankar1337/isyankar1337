@@ -1,16 +1,13 @@
-## Hi there 👋
+## 👋 yo!
 
-<!--
-**isyankar1337/isyankar1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i love open source codes
+### 🌐 Bağlantılar
+[GitHub](https://github.com/isyankar1337) ·
+[Instagram](https://instagram.com/isyankarreal)
 
-Here are some ideas to get you started:
+### 👀 Profil ziyaretleri
+![Ziyaretçi sayısı](https://komarev.com/ghpvc/?username=isyankar1337&color=blueviolet)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Terminal
+```bash
+cat isyankar1337.py
